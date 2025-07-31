@@ -1,0 +1,26 @@
+{
+  "name": "rha-fazz-clothing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talatunyande/Rha-Fazz-clothing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talatunyande/Rha-Fazz-clothing/issues"
+  },
+  "homepage": "https://github.com/talatunyande/Rha-Fazz-clothing#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
